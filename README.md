@@ -41,11 +41,17 @@ EduSchema is a comprehensive educational management system built to manage cours
 - **Tkinter:** GUI toolkit used for building the application's graphical interface.
 - **GitHub:** Version control and repository hosting platform for collaborative development.
 
-## Installation
 
-To run this application locally, follow these steps:
+### Explanation:
 
-1. Clone the repository:
+- **Project Description:** This section provides a brief overview of what EduSchema is and its primary purpose.
+  
+- **Features:** Lists key functionalities of the application, highlighting what it can do for its users.
+  
+- **Technologies Used:** Details the programming languages, frameworks, and tools used to develop EduSchema.
 
-   ```bash
-   git clone https://github.com/Siddharthjo/EduSchema.git
+- **Installation:** Provides step-by-step instructions on how to install and run the application locally, including dependencies and database setup.
+
+- **Contributing:** Guidelines for those who wish to contribute to the project, including how to fork the repository and submit pull requests.
+
+- **License:** Indicates the licensing terms under which the project is distributed.
